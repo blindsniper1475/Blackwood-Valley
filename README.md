@@ -2,22 +2,23 @@
 
 A 13-episode analog-horror / urban-exploration web series.
 
-Carol Mercer, an urbex blogger, moves into the evacuated town of Blackwood Valley,
-Washington, living out of her RV for weeks. She explores the sealed town one
-location at a time, documenting what the rest of the world forgot — and slowly
+Carol Mercer, an urbex blogger, spends about eight weeks living out of her RV in
+Blackwood Valley, Washington. The town had an estimated 3,500 residents in about
+1,200 households before its 1980 evacuation. In 2013, Carol explores selected
+sites one at a time, documenting what the rest of the world forgot — and slowly
 realizing that some things in this town refuse to decay.
 
 ## Structure
 
 - `story.md` — the series bible (premise, themes, structure)
-- `episodes/` — 13 episode scripts, scene cards, production notes
+- `episodes/` — episode scripts and working drafts
 - `characters/` — character sheets
 - `worldbuilding/` — locations, the stasis field, the RV
-- `plot/` — season arc, central mystery, timeline
+- `worldbuilding/the-town.md` — population, evacuation, and Carol's stay
 - `continuity/` — easter eggs, unresolved mysteries, photo log
 - `lore/` — Abscissa Industries connections, the plant, the evacuation
 - `production/` — sound design, camera notes, darkroom ritual, music
-- `glossary/`, `style-sheet.md`
+- `style-sheet.md` — Carol's voice, visual and sound rules, script conventions
 
 ## The Naming Convention
 

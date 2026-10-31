@@ -2,10 +2,11 @@
 
 ## Logline
 
-Carol Mercer, an urbex blogger, moves into an evacuated town in Washington State
-and spends weeks documenting what's left behind — only to discover that some
-things in this town refuse to die, and the reason the evacuation order was never
-rescinded is worse than anyone remembers.
+Carol Mercer, an urbex blogger, spends about eight weeks living out of her RV in
+Blackwood Valley, Washington, documenting selected sites in a town that held
+about 3,500 people across roughly 1,200 households before its 1980 evacuation.
+In 2013 she discovers that some things refuse to decay — and that the reason the
+evacuation order was never rescinded is worse than anyone remembers.
 
 ## Core Themes
 
@@ -31,7 +32,9 @@ rescinded is worse than anyone remembers.
 - Mid-thirties. Urbex blogger/photographer.
 - Talks to her audience like there's a friend standing next to her.
 - Curious, respectful, a little funny, quietly unsettled. Never sensational.
-- She came prepared: supplies for weeks, a satellite link, a map full of targets.
+- She came prepared for about eight weeks: supplies, a satellite link, and a map
+  of selected sites. The thirteen episodes cover anchor locations, not every
+  household in town.
 
 ### Carol's Gear (Analog-First)
 

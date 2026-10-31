@@ -3,6 +3,8 @@
 ## Overview
 - Two-story Victorian-style house. Decrepit. Not haunted. Waiting.
 - Built: ~1920s. Occupied by the Aldridge family from ~1974 to August 1980.
+- Blackwood had an estimated 3,500 residents in about 1,200 households before
+  the evacuation (rounded county estimate; see `the-town.md`).
 - Power: Still live. Never shut off.
 - Condition: Organic materials decay. Infrastructure preserved (stasis field).
 
@@ -78,7 +80,9 @@
   children's paperbacks.
 - Chalkboard: AIR — 0600/1800. WATER — CHECK. STOCK — FRIDAY.
 - Wall calendar: August 1980. Never turned.
-- Logbook: "Final stock check. Six berths. Ninety days. All clear."
+- Logbook: "Final stock check. Six berths. Ninety days. Water sealed. Filters
+  fresh. All clear." Carol reads and photographs it in place; she leaves it in
+  the shelter.
 - FULLY PRESERVED by stasis field. Underground, sealed, on the ley line vein.
 - Smells like ozone. Cold. Static on the skin.
 

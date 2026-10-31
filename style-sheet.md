@@ -36,9 +36,14 @@
 ## Things Carol Never Does
 
 - She never touches personal items unless photographing them.
-- She never opens the logbook in the shelter (she reads it, then puts it back).
+- She never removes an item from its location. She can read or photograph a
+  document in place, then leave it as she found it.
 - She never speculates about ghosts. She speculates about bureaucracy.
 - She never leaves the town. The RV is home. The town is the project.
+- The town's 3,500 residents and approximately 1,200 households are rounded
+  pre-evacuation estimates, not current population or exact census figures.
+- Carol's stay lasts about eight weeks. Episode dates can skip days; the first
+  two episodes happen on consecutive days.
 
 ## Things the Script Never Does
 

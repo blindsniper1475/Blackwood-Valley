@@ -3,7 +3,9 @@
 ## Overview
 - 1980s Winnebago. Battered, rusted, faded sun-bleached chevrons.
 - One side mirror held on with a bolt. Ugly, dented, running perfectly.
-- This is Carol's home for the entire season. She does not leave the town.
+- This is Carol's home for the entire season, about eight weeks (roughly two
+  months). She does not leave the town. Episodes may skip days; they do not
+  represent thirteen consecutive days of exploration.
 
 ## Exterior
 - Compact satellite dish on the roof. Deploys mechanically. Green link light.
@@ -16,6 +18,9 @@
 - Shelves: canned food, water jugs, batteries, first-aid kit.
 - Map of Blackwood County taped above the galley. Red marker circles.
   One circle in Ohio: "Pine Valley, OH — check E. Cross blog first."
+- A paper research folder with the 1980 evacuation estimate and a 2010 air
+  clearance notice. Carol uses the documents as sources; they do not explain
+  what caused the preservation anomalies.
 
 ## Interior — Darkroom Section (Rear)
 - Blackout curtains sealed with duct tape.

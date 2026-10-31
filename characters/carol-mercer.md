@@ -4,7 +4,9 @@
 
 - **Age:** Mid-thirties
 - **Role:** Urbex blogger / photographer / documentarian
-- **Blog:** (Name TBD — see notes below)
+- **Blog:** *Left On* (working title adopted for the episode drafts)
+- **Blackwood stay:** About eight weeks, roughly two months, for the thirteen-
+  episode series. She lives in the RV and does not leave town.
 - **Motivation:** Build the only complete record of a town the world forgot.
 - **Personality:** Curious, respectful, a little funny, quietly unsettled.
   Never sensational. Talks to her audience like a friend is standing next to her.
@@ -38,7 +40,8 @@
 
 - Contractions always. "It's," "don't," "that's."
 - Self-corrections: "That's... that's actually kind of creepy."
-- Dry humor to defuse tension: "Population... currently zero."
+- Dry humor to defuse tension: "Population... currently zero." She knows the
+  county estimated 3,500 residents in about 1,200 households before evacuation.
 - Goes quiet when something hits. Doesn't narrate over emotion.
 - Never says "haunted" unironically. Says "waiting."
 
